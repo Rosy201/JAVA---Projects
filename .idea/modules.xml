@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CryptoCeaser/CryptoCeaser.iml" filepath="$PROJECT_DIR$/CryptoCeaser/CryptoCeaser.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA - Projects.iml" filepath="$PROJECT_DIR$/JAVA - Projects.iml" />
     </modules>
   </component>
