@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CryptoCeaser/CryptoCeaser.iml" filepath="$PROJECT_DIR$/CryptoCeaser/CryptoCeaser.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA - Projects.iml" filepath="$PROJECT_DIR$/JAVA - Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mercado/Mercado.iml" filepath="$PROJECT_DIR$/Mercado/Mercado.iml" />
     </modules>
   </component>
 </project>
